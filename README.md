@@ -7,11 +7,17 @@ and watch your minutes and calories add up on the My Plan dashboard.
                                               Technologies Used
 Technology	Why it is used
 Next.js        (App Router) Pages, routing, dynamic route /workouts/[id]
-React   	Components, useState, useEffect
-Tailwind CSS	Styling and responsive layout
-Context API	Sharing Plan, Saved and Done lists across the whole app
-Google Fonts	Oswald (headings) and Inter (body text)
-localStorage	Keeping the plan and saved list after a page reload
+
+React   	     Components, useState, useEffect
+
+Tailwind       CSS	Styling and responsive layout
+
+Context API	   Sharing Plan, Saved and Done lists across the whole app
+
+Google Fonts	 Oswald (headings) and Inter (body text)
+
+localStorage	 Keeping the plan and saved list after a page reload
+
 
                                                 Features
                                                 
